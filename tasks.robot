@@ -10,7 +10,7 @@ Library             Collections
 
 *** Tasks ***
 Complete RPA challenge
-    #Get spreadsheet
+    Get spreadsheet
     ${infotable}=    Handle spreadsheet
     Go to website
     Press start
